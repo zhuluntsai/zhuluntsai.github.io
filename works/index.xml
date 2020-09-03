@@ -7,19 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2020 Wei Lun (William) Tsai</copyright>
-    <lastBuildDate>Mon, 31 Aug 2020 23:18:14 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Nov 2018 23:18:14 +0800</lastBuildDate>
     
 	<atom:link href="https://zhuluntsai.github.io/works/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>data augmentation</title>
+      <title>miss transporting</title>
       <link>https://zhuluntsai.github.io/works/data-augmentation/</link>
-      <pubDate>Mon, 31 Aug 2020 23:18:14 +0800</pubDate>
+      <pubDate>Sat, 17 Nov 2018 23:18:14 +0800</pubDate>
       
       <guid>https://zhuluntsai.github.io/works/data-augmentation/</guid>
-      <description>將現有資料以 data augmentation 的方式增加 dataset 的數量，並且可以讓使用者設定不同 augmentation method 的參數。
-Requirement  argpars data_aug json matplotlib numpy python-opencv Pillow random  Usage augmentation.py [-h] [-f FILE_NAME] [-r] [-flip FLIP] [-scale SCALE] [-scale_diff SCALE_DIFF] [-translate TRANSLATE] [-translate_diff TRANSLATE_DIFF] [-rotate ROTATE] [-shear SHEAR] [-hsv HSV HSV HSV]  Description essential  type -f to set the file name  optional  type -r to draw rectangle type -flip to set the probability that the image will be flipped type -scale to set the scale factors for x and y directions to randomly sampled from (-arg, arg) type -scale_diff to set True or False.</description>
+      <description>「當拍攝者不知道畫⾯的樣⼦
+這個畫⾯是否還真實存在？」
+「雨下得越來越⼤
+遠⽅路的盡頭逐漸模糊
+看不清楚。」
+「當畫⾯不知道拍攝者的樣⼦
+這個拍攝者是否還真實存在？」
+「底片曝光⼜曝了光
+影像交疊變得模糊
+看不清楚。」
+「也許只有當下真正存在過」
+Tsai Wei Lun
+Seeing through my eyes Group exhibition by NCTU Photography Clubs Hsinchu , Taiwan 20181107</description>
     </item>
     
   </channel>
